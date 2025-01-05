@@ -1,0 +1,1 @@
+This error typically occurs when using the Expo CLI to manage projects, especially when dealing with Android builds.  The root cause is often related to misconfigurations in the project setup, Android environment variables, or issues with the Android SDK and its components. It's not directly a code error within your application but rather a problem with the build process itself.
